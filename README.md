@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manuelmartin-developer)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmartindj)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manuelmartin-developer&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmartindj&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **manuelmartin-developer/manuelmartin-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
