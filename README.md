@@ -20,7 +20,9 @@
     />
   </a>
 
-<a href="https://app.daily.dev/manuelmartindev"><img src="https://api.daily.dev/devcards/80bb73e5f7b44037aea4f79f39a6e907.png?r=7oh" width="256" align="right" alt="Manuel Martín's Dev Card"/></a>
+<a href="https://app.daily.dev/manuelmartindev"><img
+style="margin: 20px 0"
+src="https://api.daily.dev/devcards/80bb73e5f7b44037aea4f79f39a6e907.png?r=4ql" width="256" align="right" alt="Manuel Martín's Dev Card"/></a>
 
 </div>
 
@@ -28,7 +30,3 @@
 
 - Software Engineer at [EARS Cloud](https://earscloud.io/)
 - Loves a music and a rubik's cube
-
-<figure
-style="display: flex; flex-direction: column; align-items: center; justify-content: center; margin: 0; padding: 0;"
-><embed src="https://wakatime.com/share/@mmartindj/0d963507-01c8-499a-a392-92e99fb78c5e.svg"></embed></figure>
