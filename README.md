@@ -19,12 +19,8 @@
       alt="Wakatime"
     />
   </a>
-
-<a href="https://app.daily.dev/manuelmartindev"><img
-style="margin: 20px 0"
-src="https://api.daily.dev/devcards/80bb73e5f7b44037aea4f79f39a6e907.png?r=4ql" width="256" align="right" alt="Manuel Martín's Dev Card"/></a>
-
 </div>
+<br/><br/>
 
 <!-- Github metrics -->
 
