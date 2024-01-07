@@ -26,7 +26,6 @@ src="https://api.daily.dev/devcards/80bb73e5f7b44037aea4f79f39a6e907.png?r=4ql" 
 
 </div>
 
-## I am Manuel Martín
+<!-- Github metrics -->
 
-- Software Engineer at [EARS Cloud](https://earscloud.io/)
-- Loves a music and a rubik's cube
+![Metrics](https://raw.githubusercontent.com/manuelmartin-developer/manuelmartin-developer/main/github-metrics.svg)
