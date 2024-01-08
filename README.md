@@ -33,8 +33,20 @@
 
 - Software Engineer at [EARS cloud](https://earscloud.io/)
 - Loves music and rubik's cube
-  <br/><br/><br/>
+  <br/><br/>
 
 <!-- Github metrics -->
 
 ![Metrics](https://raw.githubusercontent.com/manuelmartin-developer/manuelmartin-developer/main/github-metrics.svg)
+<br/>
+
+![Habits](https://raw.githubusercontent.com/manuelmartin-developer/manuelmartin-developer/main/habits.svg)
+<br/>
+
+![Follow](https://raw.githubusercontent.com/manuelmartin-developer/manuelmartin-developer/main/follow.svg)
+<br/>
+
+![Archievements](https://raw.githubusercontent.com/manuelmartin-developer/manuelmartin-developer/main/achievements.svg)
+<br/>
+
+![PageSpeed](https://raw.githubusercontent.com/manuelmartin-developer/manuelmartin-developer/main/pagespeed.svg)
