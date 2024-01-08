@@ -84,7 +84,7 @@ jobs:
           config_display: large
           config_timezone: Europe/Madrid
           config_output: svg
-          filename: follow.svg
+          filename: habits.svg
           # Plugin
           plugin_habits: yes
           plugin_habits_charts: yes
@@ -111,7 +111,7 @@ jobs:
           config_display: large
           config_timezone: Europe/Madrid
           config_output: svg
-          filename: follow.svg
+          filename: pagespeed.svg
           # Plugin
           plugin_pagespeed: yes
           plugin_pagespeed_detailed: yes
