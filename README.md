@@ -19,8 +19,21 @@
       alt="Wakatime"
     />
   </a>
+  <br/><br/>
+    <a href="https://api.daily.dev/get?r=manuelmartindev" target="_blank">
+    <img
+      width="256"
+      align="right"
+      src="https://raw.githubusercontent.com/manuelmartin-developer/manuelmartin-developer/devcard/devcard.svg"
+    />
+  </a>
 </div>
-<br/><br/>
+
+## I am Manuel Martín
+
+- Software Engineer at [EARS cloud](https://earscloud.io/)
+- Loves music and rubik's cube
+  <br/><br/><br/>
 
 <!-- Github metrics -->
 
