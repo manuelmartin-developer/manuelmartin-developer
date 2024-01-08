@@ -23,17 +23,11 @@
     <a href="https://api.daily.dev/get?r=manuelmartindev" target="_blank">
     <img
       width="256"
-      align="right"
+      style="float: right; margin: 0 0 1rem 1rem;"
       src="https://raw.githubusercontent.com/manuelmartin-developer/manuelmartin-developer/devcard/devcard.svg"
     />
   </a>
 </div>
-
-## I am Manuel Martín
-
-- Software Engineer at [EARS cloud](https://earscloud.io/)
-- Loves music and rubik's cube
-  <br/><br/>
 
 <!-- Github metrics -->
 
@@ -43,10 +37,14 @@
 ![Habits](https://raw.githubusercontent.com/manuelmartin-developer/manuelmartin-developer/main/habits.svg)
 <br/>
 
-![Follow](https://raw.githubusercontent.com/manuelmartin-developer/manuelmartin-developer/main/follow.svg)
-<br/>
-
 ![Archievements](https://raw.githubusercontent.com/manuelmartin-developer/manuelmartin-developer/main/achievements.svg)
 <br/>
 
-![PageSpeed](https://raw.githubusercontent.com/manuelmartin-developer/manuelmartin-developer/main/pagespeed.svg)
+## Portfolio
+
+<a href="https://manuelmartin.dev" target="_blank">
+  <img
+    align="center"
+    src="https://raw.githubusercontent.com/manuelmartin-developer/manuelmartin-developer/main/pagespeed.svg"
+  />
+</a>
