@@ -45,4 +45,76 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_threshold: C
           plugin_achievements_secrets: yes
-          plugin_achievements_display: compact 
+          
+  follow:
+    runs-on: ubuntu-latest
+    environment: 
+      name: production
+    steps:
+      - uses: lowlighter/metrics@master
+        with:
+          # You'll need to setup a personal token in your secrets.
+          token: ${{ secrets.METRICS_TOKEN }}
+          # Options
+          user: manuelmartin-developer
+          template: classic
+          base: ""
+          config_display: large
+          config_timezone: Europe/Madrid
+          config_output: svg
+          filename: follow.svg
+          # Plugin
+          plugin_followup: yes
+          plugin_followup_archived: yes
+          plugin_followup_sections: repositories 
+
+  habits:
+    runs-on: ubuntu-latest
+    environment: 
+      name: production
+    steps:
+      - uses: lowlighter/metrics@master
+        with:
+          # You'll need to setup a personal token in your secrets.
+          token: ${{ secrets.METRICS_TOKEN }}
+          # Options
+          user: manuelmartin-developer
+          template: classic
+          base: ""
+          config_display: large
+          config_timezone: Europe/Madrid
+          config_output: svg
+          filename: follow.svg
+          # Plugin
+          plugin_habits: yes
+          plugin_habits_charts: yes
+          plugin_habits_charts_type: classic
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_from: 200
+          plugin_habits_languages_limit: 8
+          plugin_habits_languages_threshold: 0%
+
+  pagespeed:
+    runs-on: ubuntu-latest
+    environment: 
+      name: production
+    steps:
+      - uses: lowlighter/metrics@master
+        with:
+          # You'll need to setup a personal token in your secrets.
+          token: ${{ secrets.METRICS_TOKEN }}
+          # Options
+          user: manuelmartin-developer
+          template: classic
+          base: ""
+          config_display: large
+          config_timezone: Europe/Madrid
+          config_output: svg
+          filename: follow.svg
+          # Plugin
+          plugin_pagespeed: yes
+          plugin_pagespeed_detailed: yes
+          plugin_pagespeed_pwa: yes
+          plugin_pagespeed_screenshot: yes
+          plugin_pagespeed_url: https://manuelmartin.dev
