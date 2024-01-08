@@ -16,64 +16,12 @@ jobs:
         with:
           # You'll need to setup a personal token in your secrets.
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
           # Options
           user: manuelmartin-developer
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Madrid
-
-  notable:
-    runs-on: ubuntu-latest
-    environment: 
-      name: production
-    steps:
-      - uses: lowlighter/metrics@v3.34
-        with:
-          # You'll need to setup a personal token in your secrets.
-          token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          # Options
-          user: manuelmartin-developer
-          template: classic
-          base: ""
-          config_display: large
-          config_timezone: Europe/Madrid
-          config_output: svg
-          config_padding: 0, 30
-          filename: notable.svg
-
-          # Notable contributions
-          plugin_notable: yes
-          plugin_notable_filter: stars:>25
           
-  notable2:
-    runs-on: ubuntu-latest
-    environment: 
-      name: production
-    steps:
-      - uses: lowlighter/metrics@v3.34
-        with:
-          # You'll need to setup a personal token in your secrets.
-          token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          # Options
-          user: manuelmartin-developer
-          template: classic
-          base: ""
-          config_display: large
-          config_timezone: Europe/Madrid
-          config_output: svg
-          config_padding: 0, 30
-          filename: notable2.svg
-
-          # Notable contributions
-          plugin_notable: yes
-          plugin_notable_filter: stars:>25
-          plugin_notable_indepth: yes
-          plugin_notable_repositories: yes
-          plugin_notable_from: all
-
   achievements:
     runs-on: ubuntu-latest
     environment: 
@@ -83,7 +31,6 @@ jobs:
         with:
           # You'll need to setup a personal token in your secrets.
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
           # Options
           user: manuelmartin-developer
           template: classic
