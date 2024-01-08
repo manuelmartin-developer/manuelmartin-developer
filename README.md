@@ -23,7 +23,7 @@
     <a href="https://api.daily.dev/get?r=manuelmartindev" target="_blank">
     <img
       width="256"
-      style="float: right; margin: 0 0 1rem 1rem;"
+      align="right"
       src="https://raw.githubusercontent.com/manuelmartin-developer/manuelmartin-developer/devcard/devcard.svg"
     />
   </a>
