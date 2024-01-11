@@ -19,6 +19,7 @@
       alt="Wakatime"
     />
   </a>
+  ![](https://komarev.com/ghpvc/?username=manuelmartin-developer)
   <br/><br/>
     <a href="https://api.daily.dev/get?r=manuelmartindev" target="_blank">
     <img
