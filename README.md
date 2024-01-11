@@ -1,5 +1,4 @@
-# Hi there 👋 
-![](https://komarev.com/ghpvc/?username=manuelmartin-developer)
+# Hi there 👋 ![](https://komarev.com/ghpvc/?username=manuelmartin-developer)
 
 <div align="left">
   <a href="https://twitter.com/ManuelMartinDia">
