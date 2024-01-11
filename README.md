@@ -1,4 +1,5 @@
-# Hi there 👋
+# Hi there 👋 
+![](https://komarev.com/ghpvc/?username=manuelmartin-developer)
 
 <div align="left">
   <a href="https://twitter.com/ManuelMartinDia">
@@ -19,8 +20,6 @@
       alt="Wakatime"
     />
   </a>
-  
-  ![](https://komarev.com/ghpvc/?username=manuelmartin-developer)
   <br/><br/>
     <a href="https://api.daily.dev/get?r=manuelmartindev" target="_blank">
     <img
