@@ -14,13 +14,7 @@
     />
   </a>
   <br/><br/>
-    <a href="https://api.daily.dev/get?r=manuelmartindev" target="_blank">
-    <img
-      width="256"
-      align="right"
-      src="https://raw.githubusercontent.com/manuelmartin-developer/manuelmartin-developer/devcard/devcard.svg"
-    />
-  </a>
+   <a href="https://app.daily.dev/manuelmartindev"><img src="https://api.daily.dev/devcards/80bb73e5f7b44037aea4f79f39a6e907.png?r=pen" width="256" alt="Manuel Martín's Dev Card"/></a>
 </div>
 
 <!-- Github metrics -->
