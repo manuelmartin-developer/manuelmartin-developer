@@ -1,4 +1,5 @@
-# Hi there 👋 ![](https://komarev.com/ghpvc/?username=manuelmartin-developer)
+# Hi there 👋 
+<!-- ![](https://komarev.com/ghpvc/?username=manuelmartin-developer) -->
 
 <div align="left">
   <a href="https://www.linkedin.com/in/manuel-martin-developer/">
@@ -22,8 +23,9 @@
 ![Metrics](https://raw.githubusercontent.com/manuelmartin-developer/manuelmartin-developer/main/github-metrics.svg)
 <br/>
 
-![Habits](https://raw.githubusercontent.com/manuelmartin-developer/manuelmartin-developer/main/habits.svg)
+<!-- ![Habits](https://raw.githubusercontent.com/manuelmartin-developer/manuelmartin-developer/main/habits.svg) 
 <br/>
+-->
 
 ![Archievements](https://raw.githubusercontent.com/manuelmartin-developer/manuelmartin-developer/main/achievements.svg)
 <br/>
