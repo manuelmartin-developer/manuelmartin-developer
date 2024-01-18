@@ -26,9 +26,10 @@
 <!-- ![Habits](https://raw.githubusercontent.com/manuelmartin-developer/manuelmartin-developer/main/habits.svg) 
 <br/>
 -->
-
+<!--
 ![Archievements](https://raw.githubusercontent.com/manuelmartin-developer/manuelmartin-developer/main/achievements.svg)
 <br/>
+-->
 
 ## Portfolio
 
