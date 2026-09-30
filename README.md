@@ -1,41 +1,18 @@
-# Hi there 👋 
-<!-- ![](https://komarev.com/ghpvc/?username=manuelmartin-developer) -->
+<img src="assets/banner.png" alt="Manuel Martín, front-end developer" width="100%">
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/manuel-martin-developer/">
-    <img
-      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
-      alt="LinkedIn"
-    />
-  </a>
-  <a href="https://wakatime.com/@8020e9ee-e306-42d1-badf-114217fce27c">
-    <img
-    src="https://wakatime.com/badge/user/8020e9ee-e306-42d1-badf-114217fce27c.svg?style=flat-square&color=007acc&label=Wakatime&logo=wakatime&logoColor=ffffff"
-      alt="Wakatime"
-    />
-  </a>
-  <br/><br/>
-  <a href="https://app.daily.dev/manuelmartindev"><img src="https://api.daily.dev/devcards/v2/VDgcv0yGjMoW5LNQJnLJb.png?type=wide&r=r6l" width="652" alt="Manuel Martín's Dev Card"/></a>
-</div>
+[Website](https://manuelmartin.dev) · [Lab](https://manuelmartin.dev/lab) · [Projects](https://manuelmartin.dev/projects) · [LinkedIn](https://www.linkedin.com/in/manuel-martin-developer/) · [Email](mailto:hola@manuelmartin.dev)
 
-<!-- Github metrics -->
+TypeScript and Web Components, with a bias for the platform. Biometric products at [Mobbeel](https://www.mobbeel.com).
 
-![Metrics](https://raw.githubusercontent.com/manuelmartin-developer/manuelmartin-developer/main/github-metrics.svg)
-<br/>
+### Work
 
-<!-- ![Habits](https://raw.githubusercontent.com/manuelmartin-developer/manuelmartin-developer/main/habits.svg) 
-<br/>
--->
-<!--
-![Archievements](https://raw.githubusercontent.com/manuelmartin-developer/manuelmartin-developer/main/achievements.svg)
-<br/>
--->
+<img src="assets/work.png" alt="Pervio, Portal, Toastive and Simtip" width="100%">
 
-## Portfolio
+[Pervio](https://manuelmartin.dev/projects/pervio) · [Portal](https://manuelmartin.dev/projects/portal) · [Toastive](https://manuelmartin.dev/projects/toastive) · [Simtip](https://manuelmartin.dev/projects/react-simtip)
 
-<a href="https://manuelmartin.dev" target="_blank">
-  <img
-    align="center"
-    src="https://raw.githubusercontent.com/manuelmartin-developer/manuelmartin-developer/main/pagespeed.svg"
-  />
-</a>
+### Lab
+
+[Face landmark](https://manuelmartin.dev/lab/face-landmark) · [Eye dropper](https://manuelmartin.dev/lab/eye-dropper) · [View transition](https://manuelmartin.dev/lab/view-transition) · [Translator](https://manuelmartin.dev/lab/translator)  
+[Offscreen canvas](https://manuelmartin.dev/lab/offscreen-canvas) · [Web audio](https://manuelmartin.dev/lab/web-audio-visualizer) · [All labs](https://manuelmartin.dev/lab)
+
+<sub>TypeScript · Web Components · CSS · Vite · React</sub>
